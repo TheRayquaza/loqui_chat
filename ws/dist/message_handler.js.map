@@ -1,1 +1,0 @@
-{"version":3,"file":"message_handler.js","sourceRoot":"","sources":["../src/message_handler.ts"],"names":[],"mappings":";;AAIA,MAAM,eAAe,GAAG,CAAC,EAAwB,EAAE,OAAe,EAAE,EAAE;IAClE,QAAQ,OAAO,CAAC,MAAM,EAAE;QACpB,KAAK,SAAS,CAAE;QAChB,KAAK,SAAS,CAAE;QAChB,KAAK,SAAS,CAAE;QAChB,KAAK,SAAS;YACV,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,CAAC;KAC5B;AACL,CAAC,CAAA;AAED,kBAAe,eAAe,CAAC"}

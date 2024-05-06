@@ -5,9 +5,9 @@
   "main": "src/app.ts",
   "scripts": {
     "test": "jest --detectOpenHandles",
-    "build": "npx tsc",
-    "start": "node dist/app.js",
-    "dev": "clear && npx tsc-watch --onSuccess \"node ./dist/app.js\""
+    "build": "npx tsc && cp package.json build",
+    "start": "node build/app.js",
+    "dev": "clear && npx tsc-watch --onSuccess \"node ./build/app.js\""
   },
   "repository": {
     "type": "git",
